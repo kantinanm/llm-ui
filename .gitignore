@@ -1,0 +1,13 @@
+node_modules/*
+**/*.log
+**/bower_components/*
+.DS_Store
+package-lock.json
+public/styles/*.min.css
+public/js/*.min.js
+**/*.bak
+*.bak
+.env
+request-example/*.http
+
+parameters/*_.png
