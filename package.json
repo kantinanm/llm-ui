@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon --env-file=.env app2.js"
+  },
   "dependencies": {
-    "ollama": "^latest"
+    "ollama": "^0.5.10"
   }
 }

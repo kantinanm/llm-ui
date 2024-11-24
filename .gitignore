@@ -11,3 +11,4 @@ public/js/*.min.js
 request-example/*.http
 
 parameters/*_.png
+parameters/IMG_*.JPG
